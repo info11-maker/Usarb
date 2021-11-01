@@ -1,0 +1,15 @@
+{
+    "name": "John Doe",
+    "email": "john.doe@gmail.com",
+    "phone": "555-1212",
+    "item": [ {"value": "Universitatea de Stat 'Alecu Russo'",
+                "type": "text"},
+            {"value": "Despre",
+            "type": "text"},
+             "Studii",
+             "Facultati", 
+             "Subdeviziuni",
+             "+373 231 52430", 
+             "anticamera@usarb.md"],
+    "smenu": ["Каталог товаров", "Сезонные продукты","Калькулятор ремонта","Хиты продаж","Доставка"]
+}
